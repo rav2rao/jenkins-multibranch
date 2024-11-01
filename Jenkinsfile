@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello1') {
             steps {
-                echo "Hello World-1"
+                echo "Hello World-multibranch"
             }
         }      
     }
